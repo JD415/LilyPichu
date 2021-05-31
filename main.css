@@ -1414,7 +1414,6 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
   background-size: 100%;
 }
 :root .app-2rEoOp::after {
@@ -1704,7 +1703,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "Suck mah dick";
+    content: "why is this even here";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1731,7 +1730,6 @@
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
-    background: url("https://cdn.discordapp.com/emojis/701610558037688401.gif?v=1") bottom/40% no-repeat;
   }
 
   .guilds-1SWlCJ + :nth-child(2) {
