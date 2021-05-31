@@ -1700,26 +1700,6 @@
 
   .tabBody-3YRQ8W {
     transform: none;
-  }
-
-  .container-2lgZY8::after {
-    content: "why is this even here";
-    position: fixed;
-    top: 220px;
-    bottom: 85px;
-    right: 60px;
-    z-index: -2;
-    width: 320px;
-    background-color: var(--background-primary);
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    color: var(--text-normal);
-    border-radius: var(--border-radius);
-    overflow: hidden;
-  }
 
   .container-2lgZY8::before {
     content: "";
