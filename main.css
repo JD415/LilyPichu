@@ -1744,7 +1744,7 @@
     width: 384px;
     height: 50px;
     bottom: 28px;
-    right: 50px;
+    right: 20px;
     background-color: var(--background-primary);
     border-radius: var(--border-radius);
   }
