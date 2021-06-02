@@ -1581,7 +1581,7 @@
     position: fixed;
     bottom: 85px;
     z-index: 1;
-    width: 320px;
+    width: 400px;
     height: 35px;
     background-color: var(--background-secondary);
     border-radius: 0 0 var(--border-radius) var(--border-radius);
@@ -1727,7 +1727,7 @@
     position: fixed;
     top: 220px;
     bottom: 85px;
-    right: 90px;
+    right: 70px;
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
