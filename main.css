@@ -586,10 +586,10 @@
 :root .membersWrap-2h-GB4::before {
   content: "Member list";
   position: absolute;
-  top: -60px;
+  top: -40px;
   z-index: 1;
   width: 120%;
-  height: 80px;
+  height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
