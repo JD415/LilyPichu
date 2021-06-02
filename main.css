@@ -616,7 +616,7 @@
   position: absolute;
   bottom: -35px;
   z-index: 1;
-  width: 100%;
+  width: 120%;
   height: 35px;
   background-color: var(--background-secondary);
   border-radius: 0 0 var(--border-radius) var(--border-radius);
@@ -1741,7 +1741,7 @@
 
   .panels-j1Uci_ > .container-3baos1 {
     position: fixed;
-    width: 305px;
+    width: 384px;
     height: 50px;
     bottom: 28px;
     right: 60px;
