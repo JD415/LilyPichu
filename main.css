@@ -1729,7 +1729,7 @@
     bottom: 85px;
     right: 70px;
     z-index: -1;
-    width: 300px;
+    width: 400px;
     border-radius: var(--border-radius);
     background: url("https://media.discordapp.net/attachments/840542131898155020/847596284667494420/Danganronpa_2_Monokuma_Pet_01.gif") bottom/40% no-repeat;
   }
