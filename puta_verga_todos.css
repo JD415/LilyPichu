@@ -1767,7 +1767,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "I'm a bad match... for you!";
+    content: "Clematis!";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1794,7 +1794,7 @@
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
-    background: url("https://cdn.discordapp.com/attachments/590303064167284770/854122917360173056/kugisaki.png") bottom/40% no-repeat;
+    background: url("https://cdn.discordapp.com/attachments/823950406676774942/864851815425114133/Princess_Hibana.png") bottom/40% no-repeat;
   }
 
   .guilds-1SWlCJ + :nth-child(2) {
