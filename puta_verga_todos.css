@@ -1767,7 +1767,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "si cambia mandeme un dm papum :vvvv";
+    content: "¡Asústame, panteón!";
     position: fixed;
     top: 220px;
     bottom: 85px;
@@ -1792,7 +1792,7 @@
     bottom: 85px;
     right: 90px;
     z-index: -1;
-    width: 500px;
+    width: 400px;
     border-radius: var(--border-radius);
     background: url("https://cdn.discordapp.com/attachments/823950406676774942/873271765550379038/75b3792413493baaf143f27ed85a72cb.png") bottom/40% no-repeat;
   }
